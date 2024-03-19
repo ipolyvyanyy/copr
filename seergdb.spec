@@ -1,5 +1,5 @@
 Name:           seergdb
-Version:        2.3
+Version:        2.4
 Release:        1%{?dist}
 Summary:        A GUI front-end for GNU gdb.
 
